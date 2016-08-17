@@ -1,12 +1,21 @@
 <html>
 	<body>
 		<div>
+			<module-one>
 			<ul>
 				<li>bricks</li>
 				<li>bricks</li>
 				<li>bricks</li>
-				<li></li>
 			</ul>
+			</module-one>
 		</div>
+			<module-two>
+			<ul>
+				<li>sand</li>
+				<li>sand</li>
+				<li>sand</li>
+			</ul>
+			</module-two>
+
 	</body>
 </html>
